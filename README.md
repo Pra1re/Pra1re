@@ -44,7 +44,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 ## 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical)](https://github.com/yourusername/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/yourusername/repo2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo3&theme=radical)](https://github.com/yourusername/repo3)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical)](https://github.com/Pra1re/Learnmate)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/Pra1re/Sporty-Sports-equipment)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo3&theme=radical)](https://github.com/Pra1re/carrer-counseling)
 
