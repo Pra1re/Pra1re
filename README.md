@@ -20,6 +20,13 @@
 
 ---
 
+## 🌱 Current Activities
+- 🚀 Working on a **Mock Interview Website** to help students improve their coding skills.
+- 💻 Solving problems on **Codeforces, Leetcode, and other platforms**.
+- 📚 Learning advanced backend optimizations and database management.
+
+---
+
 ## **🚀 Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,mongodb,nodejs,git,github" />
