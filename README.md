@@ -1,4 +1,4 @@
-![Placeholder Banner Image](DALL·E 2025-02-05 14.22.44 - A dark-themed GitHub banner with a futuristic and sleek aesthetic. The background is deep black with subtle glowing UI elements in neon blue and purpl.jpg)
+![Placeholder Banner Image](banner.jpg)
 
 # Adnan Sami
 **Frontend web Developer**
