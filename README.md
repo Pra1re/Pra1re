@@ -63,7 +63,7 @@
 ---
 
 ## **📌 Pinned Repositories**
-<p align="center">
+<p align="start">
   <a href="https://github.com/Pra1re/Learnmate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pra1re&repo=Learnmate&theme=radical" />
   </a>
