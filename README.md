@@ -1,4 +1,4 @@
-![Placeholder Banner Image](https://i.ibb.co.com/5XgVjK1L/DALL-E-2025-02-05-14-22-44-A-dark-themed-Git-Hub-banner-with-a-futuristic-and-sleek-aesthetic-The-ba.webp)
+![Placeholder Banner Image]([https://i.ibb.co.com/5XgVjK1L/DALL-E-2025-02-05-14-22-44-A-dark-themed-Git-Hub-banner-with-a-futuristic-and-sleek-aesthetic-The-ba.webp](https://ibb.co.com/359HFRTc))
 
 # Adnan Sami
 **Frontend web Developer**
