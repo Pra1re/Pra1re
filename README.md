@@ -88,7 +88,5 @@
   <a href="mailto:adnansami97952@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+8801556741141">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Phone-01556741141-25D366?style=for-the-badge&logo=phone&logoColor=white" />
 </p>
