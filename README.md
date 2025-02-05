@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ![Placeholder Banner Image](DALL·E 2025-02-05 14.22.44 - A dark-themed GitHub banner with a futuristic and sleek aesthetic. The background is deep black with subtle glowing UI elements in neon blue and purpl.jpg)
-=======
-![Placeholder Banner Image]([https://i.ibb.co.com/5XgVjK1L/DALL-E-2025-02-05-14-22-44-A-dark-themed-Git-Hub-banner-with-a-futuristic-and-sleek-aesthetic-The-ba.webp](https://ibb.co.com/359HFRTc))
->>>>>>> 0c6fe99001e466c6df6a777a633e3059d7b24459
 
 # Adnan Sami
 **Frontend web Developer**
