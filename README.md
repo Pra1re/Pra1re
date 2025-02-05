@@ -29,27 +29,27 @@
 
 ## **🏆 GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&margin-w=10&margin-h=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pra1re&theme=radical&no-bg=true&margin-w=10&margin-h=10">
 </p>
 
 ---
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pra1re&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pra1re&theme=radical" width="48%" />
 </p>
 
 ### **📌 Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pra1re&layout=compact&theme=radical&langs_count=8" width="50%" />
 </p>
 
 ---
 
 ## **🔥 GitHub Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pra1re&theme=redical" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 
 ## **📬 Connect With Me**
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Pra1re">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
