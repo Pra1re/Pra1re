@@ -88,4 +88,5 @@
   <a href="mailto:adnansami97952@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <p>Contact: 01556741141</p>
 </p>
