@@ -67,12 +67,22 @@
   <a href="https://github.com/Pra1re/Learnmate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pra1re&repo=Learnmate&theme=radical" />
   </a>
+  <br>
+  <b>LearnMate:</b> A platform designed to enhance education by fostering collaboration, simplifying complex concepts, and bridging the gap between students and knowledge.
+  <br><br>
+
   <a href="https://github.com/Pra1re/Sporty-Sports-equipment">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pra1re&repo=Sporty-Sports-equipment&theme=radical" />
   </a>
+  <br>
+  <b>Sporty:</b> A sleek and responsive e-commerce site for sports equipment, designed with an intuitive UI and seamless shopping experience.
+  <br><br>
+
   <a href="https://github.com/Pra1re/carrer-counseling">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pra1re&repo=carrer-counseling&theme=radical" />
   </a>
+  <br>
+  <b>CareerPath:</b> A career counseling platform that provides guidance and resources for students and professionals to make informed career choices.
 </p>
 
 ---
