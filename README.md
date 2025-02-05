@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Banner" style="width:50%; max-width:400px;">
+<img src="banner.jpg" alt="Banner" style="width:100%; max-width:400px;">
 
 # Adnan Sami
 **Frontend web Developer**
