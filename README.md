@@ -1,4 +1,4 @@
-![Placeholder Banner Image](banner.jpg)
+<img src="banner.png" alt="Banner" style="width:100%; max-width:800px;">
 
 # Adnan Sami
 **Frontend web Developer**
