@@ -60,20 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pra1re&theme=redical" />
 </p>
 
----
-
-## **📌 Pinned Repositories**
-<p align="start">
-  <a href="https://github.com/Pra1re/Learnmate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pra1re&repo=Learnmate&theme=radical" />
-  </a>
-  <a href="https://github.com/Pra1re/Sporty-Sports-equipment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pra1re&repo=Sporty-Sports-equipment&theme=radical" />
-  </a>
-  <a href="https://github.com/Pra1re/carrer-counseling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pra1re&repo=carrer-counseling&theme=radical" />
-  </a>
-</p>
 
 ---
 
