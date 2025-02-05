@@ -1,7 +1,7 @@
 <img src="banner.jpg" alt="Banner" style="width:100%; max-width:800px;">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Adnan+Sami;Frontend+Web+Developer+💻;Competitive+Programmer+🚀;Always+learning+new+things!+😎" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Adnan+Sami;Frontend+Web+Developer+💻;Competitive+Programmer+🚀;Always+learning+new+things!+😎" />
 </h1>
 
 <p align="center">
