@@ -43,8 +43,8 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pra1re&show_icons=true&theme=radical" width="48%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pra1re&theme=radical&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pra1re&show_icons=true&theme=radical" width="48%" height="500px"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pra1re&theme=radical&cache_seconds=86400" width="48%" height="500px"/>
   
 </p>
 
